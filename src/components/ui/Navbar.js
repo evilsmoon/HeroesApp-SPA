@@ -9,11 +9,9 @@ export const Navbar = ( ) => {
 
     const history=useHistory();
     const handelLogout = ( ) =>{
+        // console.log('click')
         dispatch({
             type:types.logout,
-            payload:{
-                name:''
-            }
 
         });
         history.replace('/login')
