@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/HeroesApp-SPA/static/js/main.e2a6ca0f.chunk.js",
-    "main.js.map": "/HeroesApp-SPA/static/js/main.e2a6ca0f.chunk.js.map",
-    "runtime-main.js": "/HeroesApp-SPA/static/js/runtime-main.11e7d0a6.js",
-    "runtime-main.js.map": "/HeroesApp-SPA/static/js/runtime-main.11e7d0a6.js.map",
-    "static/js/2.38c18f31.chunk.js": "/HeroesApp-SPA/static/js/2.38c18f31.chunk.js",
-    "static/js/2.38c18f31.chunk.js.map": "/HeroesApp-SPA/static/js/2.38c18f31.chunk.js.map",
-    "index.html": "/HeroesApp-SPA/index.html",
-    "precache-manifest.6fb392a3c946b9f27735b608b1004b37.js": "/HeroesApp-SPA/precache-manifest.6fb392a3c946b9f27735b608b1004b37.js",
-    "service-worker.js": "/HeroesApp-SPA/service-worker.js",
-    "static/js/2.38c18f31.chunk.js.LICENSE.txt": "/HeroesApp-SPA/static/js/2.38c18f31.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.e2a6ca0f.chunk.js",
+    "main.js.map": "/static/js/main.e2a6ca0f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7f813af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7f813af.js.map",
+    "static/js/2.38c18f31.chunk.js": "/static/js/2.38c18f31.chunk.js",
+    "static/js/2.38c18f31.chunk.js.map": "/static/js/2.38c18f31.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ad7b3f298eff70d3be4d4a785e09dc1.js": "/precache-manifest.3ad7b3f298eff70d3be4d4a785e09dc1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.38c18f31.chunk.js.LICENSE.txt": "/static/js/2.38c18f31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11e7d0a6.js",
+    "static/js/runtime-main.b7f813af.js",
     "static/js/2.38c18f31.chunk.js",
     "static/js/main.e2a6ca0f.chunk.js"
   ]
