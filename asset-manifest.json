@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/HeroesApp-SPA/static/js/main.e2a6ca0f.chunk.js",
+    "main.js.map": "/HeroesApp-SPA/static/js/main.e2a6ca0f.chunk.js.map",
+    "runtime-main.js": "/HeroesApp-SPA/static/js/runtime-main.11e7d0a6.js",
+    "runtime-main.js.map": "/HeroesApp-SPA/static/js/runtime-main.11e7d0a6.js.map",
+    "static/js/2.38c18f31.chunk.js": "/HeroesApp-SPA/static/js/2.38c18f31.chunk.js",
+    "static/js/2.38c18f31.chunk.js.map": "/HeroesApp-SPA/static/js/2.38c18f31.chunk.js.map",
+    "index.html": "/HeroesApp-SPA/index.html",
+    "precache-manifest.6fb392a3c946b9f27735b608b1004b37.js": "/HeroesApp-SPA/precache-manifest.6fb392a3c946b9f27735b608b1004b37.js",
+    "service-worker.js": "/HeroesApp-SPA/service-worker.js",
+    "static/js/2.38c18f31.chunk.js.LICENSE.txt": "/HeroesApp-SPA/static/js/2.38c18f31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e7d0a6.js",
+    "static/js/2.38c18f31.chunk.js",
+    "static/js/main.e2a6ca0f.chunk.js"
+  ]
+}
